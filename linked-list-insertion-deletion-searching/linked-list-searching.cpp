@@ -8,7 +8,7 @@ class linkedList{
         int data;
         Node*next;
     }*head = NULL;
-    // void insert(int value){
+    // void insertA(int value){
     //     Node* temp;
     //     temp= new Node;
     //     temp->data=value;
